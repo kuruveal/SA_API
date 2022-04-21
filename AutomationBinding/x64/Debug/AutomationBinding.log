@@ -1,0 +1,11 @@
+﻿  AutomationBinding.cpp
+  dllmain.cpp
+  Part.cpp
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\PartOps.h(18,29): warning C4251: 'PartFile::m_partFilePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'PartFile'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Session.cpp
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\PartOps.h(18,29): warning C4251: 'PartFile::m_partFilePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'PartFile'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Generating Code...
+     Creating library C:\Users\polek\source\repos\AutomationAPI_pt2\x64\Debug\AUTOMATIONBINDING.lib and object C:\Users\polek\source\repos\AutomationAPI_pt2\x64\Debug\AUTOMATIONBINDING.exp
+  AutomationBinding.vcxproj -> C:\Users\polek\source\repos\AutomationAPI_pt2\x64\Debug\AUTOMATIONBINDING.dll

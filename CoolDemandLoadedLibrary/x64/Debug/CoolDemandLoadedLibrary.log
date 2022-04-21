@@ -1,0 +1,9 @@
+﻿  Wire.cpp
+C:\Users\polek\source\repos\AutomationAPI_pt2\CoolDemandLoadedLibrary\Wire.h(30,24): warning C4251: 'Wire::m_distance': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Wire'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\DataReader\DataObjectReader.h(23,69): warning C4251: 'DataObjectReader::m_mapOfReaderFunctions': class 'std::map<std::string,dataReaderFunction,std::less<std::string>,std::allocator<std::pair<const std::string,dataReaderFunction>>>' needs to have dll-interface to be used by clients of class 'DataObjectReader'
+C:\Users\polek\source\repos\AutomationAPI_pt2\DataReader\DataObjectReader.h(23): message : see declaration of 'std::map<std::string,dataReaderFunction,std::less<std::string>,std::allocator<std::pair<const std::string,dataReaderFunction>>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\DataReader\DataReaderRegistrant.h(18,30): warning C4251: 'DataReaderRegistrant::m_registrantName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'DataReaderRegistrant'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+     Creating library C:\Users\polek\source\repos\AutomationAPI_pt2\x64\Debug\COOLDEMANDLOADEDLIBRARY.lib and object C:\Users\polek\source\repos\AutomationAPI_pt2\x64\Debug\COOLDEMANDLOADEDLIBRARY.exp
+  CoolDemandLoadedLibrary.vcxproj -> C:\Users\polek\source\repos\AutomationAPI_pt2\x64\Debug\COOLDEMANDLOADEDLIBRARY.dll

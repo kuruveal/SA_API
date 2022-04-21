@@ -1,0 +1,46 @@
+﻿  AppLibrary.cpp
+  Block.cpp
+  dllmain.cpp
+  Extrude.cpp
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(45,24): warning C4251: 'Extrude::m_distance': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(46,26): warning C4251: 'Extrude::m_targetFace': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(47,28): warning C4251: 'Extrude::m_vectorObject': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(48,26): warning C4251: 'Extrude::m_isAddition': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(49,29): warning C4251: 'Extrude::m_isSubtraction': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\DataReader\DataObjectReader.h(23,69): warning C4251: 'DataObjectReader::m_mapOfReaderFunctions': class 'std::map<std::string,dataReaderFunction,std::less<std::string>,std::allocator<std::pair<const std::string,dataReaderFunction>>>' needs to have dll-interface to be used by clients of class 'DataObjectReader'
+C:\Users\polek\source\repos\AutomationAPI_pt2\DataReader\DataObjectReader.h(23): message : see declaration of 'std::map<std::string,dataReaderFunction,std::less<std::string>,std::allocator<std::pair<const std::string,dataReaderFunction>>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\DataReader\DataReaderRegistrant.h(18,30): warning C4251: 'DataReaderRegistrant::m_registrantName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'DataReaderRegistrant'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  ExtrudeVersions.cpp
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(45,24): warning C4251: 'Extrude::m_distance': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(46,26): warning C4251: 'Extrude::m_targetFace': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(47,28): warning C4251: 'Extrude::m_vectorObject': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(48,26): warning C4251: 'Extrude::m_isAddition': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(49,29): warning C4251: 'Extrude::m_isSubtraction': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Feature.cpp
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(45,24): warning C4251: 'Extrude::m_distance': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(46,26): warning C4251: 'Extrude::m_targetFace': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(47,28): warning C4251: 'Extrude::m_vectorObject': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(48,26): warning C4251: 'Extrude::m_isAddition': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\Extrude.h(49,29): warning C4251: 'Extrude::m_isSubtraction': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Extrude'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  PartOps.cpp
+C:\Users\polek\source\repos\AutomationAPI_pt2\AppLibrary\PartOps.h(18,29): warning C4251: 'PartFile::m_partFilePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'PartFile'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Generating Code...
+     Creating library C:\Users\polek\source\repos\AutomationAPI_pt2\x64\Debug\APPLIBRARY.lib and object C:\Users\polek\source\repos\AutomationAPI_pt2\x64\Debug\APPLIBRARY.exp
+  AppLibrary.vcxproj -> C:\Users\polek\source\repos\AutomationAPI_pt2\x64\Debug\APPLIBRARY.dll
